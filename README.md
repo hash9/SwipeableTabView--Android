@@ -1,6 +1,6 @@
 # SwipeableTabView--Android UI element
 
-![Demo] (https://cloud.githubusercontent.com/assets/11522875/18473781/6cf314de-79dc-11e6-9d39-10f0588c62c7.gif)
+![Demo] (https://cloud.githubusercontent.com/assets/11522875/18473781/6cf314de-79dc-11e6-9d39-10f0588c62c7.gif =250x250)
 
 # Usage
 
